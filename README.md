@@ -15,3 +15,4 @@ import visualize
 visualize.depth('filename')     
 
 # Screenshot of example output:
+![example output](https://raw.githubusercontent.com/AnthonyAndroulakis/VisualizeMatStructs/master/example/examplegraph.png)
